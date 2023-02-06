@@ -1,0 +1,41 @@
+// int n1, n2, n3;
+	// if (!isNeg){
+	// 	boolean lend = false;
+	// 	while (!IsEmpty(s1)){
+	// 		Pop(&s1, &n1);
+	// 		Pop(&s2, &n2);
+
+	// 		if (lend){
+	// 			n1 --;
+	// 			lend = false;
+	// 		}
+
+	// 		n3 = n1 - n2;
+	// 		if (n3 < 0){
+	// 			n3 += 10;
+	// 			lend = true;
+	// 		}
+	// 		Push(&s3, n3);
+	// 	}
+	// }
+
+	// else{
+	// 	boolean lend = false;
+	// 	while (!IsEmpty(s1)){
+	// 		Pop(&s1, &n1);
+	// 		Pop(&s2, &n2);
+
+	// 		if (lend){
+	// 			n2--;
+	// 			lend = false;
+	// 		}
+
+	// 		n3 = n2 - n1;
+	// 		if (n3 < 0){
+	// 			n3 += 10;
+	// 			lend = true;
+	// 		}
+	// 		Push(&s3, n3);
+	// 		Push(&s0, n3);
+	// 	}
+	// }
